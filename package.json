@@ -1,0 +1,25 @@
+{
+  "name": "browserify-development-setup",
+  "version": "1.0.0",
+  "description": "Browserify Development Setup",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/browserify-development-setup.git"
+  },
+  "keywords": [
+    "browserify"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/browserify-development-setup/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/browserify-development-setup#readme",
+  "dependencies": {
+    "ramda": "^0.27.0"
+  }
+}
